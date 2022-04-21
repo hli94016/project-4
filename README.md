@@ -58,7 +58,4 @@ Consider potential bias in our data, especially related to demographic features
  
 # Contributors
  
-Christine Li
-Ludan Zhang
-Ryan Apolonio
-Ramon Faylona
+Christine Li, Ludan Zhang, Ryan Apolonio, Ramon Faylona
