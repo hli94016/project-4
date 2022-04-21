@@ -2,8 +2,6 @@
  
 Online gaming is 1 of the fastest growing form of sports due to advancements in our technology, it is affectionately known as e-Sports. Our team looked into the potential of having players/summoners understand their in-game performances and understand their winning conditions. We created a model and visualization that correlates their data and predict their winning conditions using a Decision Tree and random forest classification model.
  
-Link:
- 
 # Background
  
 The growth of eSports globally, with 1 of its biggest game, League of Legends, lead to players wanting to improve their game play. League of Legends, more affectionately called LoL, introduced a ranking system where their game data are considered and then are classified based on their performance to a certain rank, based on a 5 games played in a Rank Game feature of LoL. With summoners always intending to play better and improve their game play, and understanding the game data is not always the simplest to cater for. So being able to determine the factors that cause your win condition, and help understand their game play data better, can assist in their growth in game. Which therefore can help lead to them ranking up and understanding on game mechanics and conditions that are important to win.
@@ -29,7 +27,7 @@ Visualize dashboard in Tableau
 
 Data was collected from match histories of players obtained through RiotApi
  
-Link:
+Link: https://developer.riotgames.com/apis
  
 # Preprocessing
  
@@ -43,6 +41,10 @@ Evaluated feature performance
 # Using the Model
  
 Tableau dashboard was used to help visualize the data models and compare the results of the models
+
+# Visualization
+
+Link: https://public.tableau.com/app/profile/ramon.faylona/viz/Lol-Proj4/Story1
  
 # Limitations
  
